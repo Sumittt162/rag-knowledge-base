@@ -1,0 +1,9 @@
+venv/
+.env
+data/faiss_db/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+data/chat_memory.db
+data/*.db
